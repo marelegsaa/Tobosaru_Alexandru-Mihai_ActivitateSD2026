@@ -27,10 +27,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="seminar09.c" />
+    <Text Include="masini_arbore.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="masini_arbore.txt" />
+    <ClCompile Include="seminar10.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
